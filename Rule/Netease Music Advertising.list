@@ -1,0 +1,7 @@
+#https://github.com/Tartarus2014/For-own-use/blob/master/Ruleset/Loon/Netease%20Music%20Advertising.list
+# Netease Music Advertising
+
+host-suffix, admusicpic.music.126.net, 🎸解锁网易云音乐
+host-suffix, iadmat.nosdn.127.net, 🎸解锁网易云音乐
+host-suffix, iadmusicmat.music.126.net, 🎸解锁网易云音乐
+host-suffix, iadmusicmatvideo.music.126.net, 🎸解锁网易云音乐

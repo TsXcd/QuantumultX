@@ -1,0 +1,7 @@
+#参考https://github.com/Tartarus2014/For-own-use/blob/master/Ruleset/Loon/LOL:wild%20rift.list
+
+# 2020.10.28  16.13
+
+host-suffix,riotcdn.net
+host-suffix,wr.pvp.net
+host-suffix,riotgames.com
